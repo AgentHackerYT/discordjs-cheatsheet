@@ -1,1 +1,18 @@
 # discordjs-cheatsheet
+- Events
+- Shard Events
+- Errors
+- websocket
+- Targets
+- Audit Log Events
+- User Flags
+- Permissions
+- Intents
+- Message Flags
+- API Errors
+- Client Application Asset Types
+- Channel Types
+- Activity Types
+- Message Types
+- WS events
+- Partial Types 
