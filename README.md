@@ -16,3 +16,6 @@
 - Message Types
 - WS events
 - Partial Types 
+- COLOR Codes
+- and much more
+- 
