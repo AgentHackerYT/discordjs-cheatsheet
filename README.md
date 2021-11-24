@@ -18,4 +18,3 @@
 - Partial Types 
 - COLOR Codes
 - and much more
-- 
